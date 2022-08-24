@@ -1,49 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport" authors="Rene Castro">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11473</md:content-id>
-  <md:title>Music Visualization using Independent Component Analysis</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>8d07c9b6-8815-4c62-aec6-e1f160ca976f</md:uuid>
-<md:slug>music-visualization-using-independent-component-analysis</md:slug>
-</metadata>
-
+    <md:content-id>col11473</md:content-id>
+    <md:title>Music Visualization using Independent Component Analysis</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>8d07c9b6-8815-4c62-aec6-e1f160ca976f</md:uuid>
+    <md:slug>music-visualization-using-independent-component-analysis</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m45351"/>
-        
-      
-    
-    
-      <col:module document="m45352"/>
-        
-      
-    
-    
-      <col:module document="m45353"/>
-        
-      
-    
-    
-      <col:module document="m45354"/>
-        
-      
-    
-    
-      <col:module document="m45408"/>
-        
-      
-    
+    <col:module document="m45351"/>
+    <col:module document="m45352"/>
+    <col:module document="m45353"/>
+    <col:module document="m45354"/>
+    <col:module document="m45408"/>
   </col:content>
 </col:collection>
